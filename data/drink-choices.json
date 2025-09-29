@@ -1,0 +1,22 @@
+[
+  {
+    "id": "latte",
+    "name": "Latte",
+    "description": ""
+  },
+  {
+    "id": "americano",
+    "name": "Americano",
+    "description": "Espresso, no milk, water added"
+  },
+  {
+    "id": "espresso-shot",
+    "name": "Espresso Shot",
+    "description": ""
+  },
+  {
+    "name": "Red Wine",
+    "description": "Mmm Wine",
+    "id": "red-wine"
+  }
+]
